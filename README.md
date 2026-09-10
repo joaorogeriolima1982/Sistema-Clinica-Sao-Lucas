@@ -163,6 +163,7 @@ aplicação.
 │       Banco de dados     │
 └──────────────────────────┘
 
+---
 
 ## ⚙️ Configuração
 
