@@ -11,9 +11,6 @@ das conexões com o banco de dados.
 
 ## 📌 Sobre o projeto
 
-O sistema **Clínica São Lucas** é uma aplicação desktop desenvolvida em Java para
-auxiliar no gerenciamento das principais operações de uma clínica médica.
-
 O sistema permite o gerenciamento de:
 
 - Usuários
@@ -22,11 +19,23 @@ O sistema permite o gerenciamento de:
 - Consultas
 - Histórico de consultas
 
-A aplicação possui uma interface gráfica desenvolvida com **Java Swing** e
-utiliza **PostgreSQL** como banco de dados.
-
 O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 **HikariCP** para gerenciamento do pool de conexões.
+
+**🔐 Segurança**
+
+O projeto possui mecanismos para proteção de informações sensíveis.
+
+Entre os recursos implementados estão:
+
+- Criptografia AES
+- Proteção das credenciais de acesso ao banco de dados
+- Criptografia da URL de conexão
+- Criptografia do usuário do banco
+- Criptografia da senha do banco
+- Senha de autorização para cadastro de novos usuários
+- Utilização de PreparedStatement
+- Validação dos dados antes da persistência
 
 ---
 
