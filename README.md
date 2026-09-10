@@ -185,6 +185,7 @@ Para executar o projeto é necessário possuir:
 - Configure as chaves necessárias para a criptografia.
 - Execute a aplicação.
 
+---
 
 ## 📚 Objetivos do projeto
 
@@ -207,6 +208,7 @@ práticos de desenvolvimento de software utilizando Java.
 - Tratamento de exceções
 - Organização de código
 
+---
 
 ## 👨‍💻 Autor
 
