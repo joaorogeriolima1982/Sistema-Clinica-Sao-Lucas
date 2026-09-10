@@ -74,6 +74,8 @@ O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 - Validação de campos obrigatórios
 - Impedimento de exclusão de médico que possui consulta cadastrada
 
+![Demonstração do sistema](Tela-de-Medicos.gif)
+
 ---
 
 ## 📅 Gerenciamento de consultas
