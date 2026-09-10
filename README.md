@@ -100,6 +100,8 @@ O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 - Exclusão de registros
 - Exibição dos dados através de JTable
 
+![Demonstração do sistema](Tela-de-Historico.gif)
+
 ---
 
 # 🛠️ Tecnologias utilizadas
