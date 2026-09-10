@@ -11,7 +11,7 @@ das conexões com o banco de dados.
 
 ## 📌 Sobre o projeto
 
-O **Clínica São Lucas** é uma aplicação desktop desenvolvida em Java para
+O sistema **Clínica São Lucas** é uma aplicação desktop desenvolvida em Java para
 auxiliar no gerenciamento das principais operações de uma clínica médica.
 
 O sistema permite o gerenciamento de:
