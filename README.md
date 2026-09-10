@@ -41,7 +41,7 @@ O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 - Validação de campos obrigatórios
 - Proteção das informações sensíveis através de criptografia
 
-![Demonstração do sistema](Tela-de-Login.gif)
+![Demonstração do sistema](Tela-de-Login)
 
 ---
 
