@@ -88,6 +88,8 @@ O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 - Associação entre paciente e médico
 - Exibição das consultas em JTable
 
+![Demonstração do sistema](Tela-de-Consultas.gif)
+
 ---
 
 ## 📋 Histórico de consultas
