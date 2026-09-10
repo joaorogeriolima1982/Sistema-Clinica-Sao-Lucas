@@ -162,3 +162,53 @@ aplicação.
 │        POSTGRESQL        │
 │       Banco de dados     │
 └──────────────────────────┘
+
+
+## ⚙️ Configuração
+
+# Requisitos
+
+Para executar o projeto é necessário possuir:
+
+- Java JDK
+- PostgreSQL
+- NetBeans ou outra IDE compatível
+- Driver JDBC do PostgreSQL
+
+# Banco de dados
+
+- Instale o PostgreSQL.
+- Crie o banco de dados da aplicação.
+- Execute o script SQL do projeto.
+- Configure os parâmetros de conexão.
+- Configure as chaves necessárias para a criptografia.
+- Execute a aplicação.
+
+
+## 📚 Objetivos do projeto
+
+Este projeto foi desenvolvido com o objetivo de aplicar conhecimentos
+práticos de desenvolvimento de software utilizando Java.
+
+# Entre os conhecimentos aplicados estão:
+
+- Programação orientada a objetos
+- Desenvolvimento de interfaces gráficas
+- Arquitetura em camadas
+- JDBC
+- SQL
+- PostgreSQL
+- CRUD
+- Connection Pool
+- HikariCP
+- Criptografia
+- Validação de dados
+- Tratamento de exceções
+- Organização de código
+
+
+## 👨‍💻 Autor
+
+#João Rogério de Lima
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas.
