@@ -165,9 +165,9 @@ aplicação.
 ```
 ---
 
-## ⚙️ Configuração
+# ⚙️ Configuração
 
-# Requisitos
+## Requisitos
 
 Para executar o projeto é necessário possuir:
 
@@ -176,7 +176,7 @@ Para executar o projeto é necessário possuir:
 - NetBeans ou outra IDE compatível
 - Driver JDBC do PostgreSQL
 
-# Banco de dados
+## Banco de dados
 
 - Instale o PostgreSQL.
 - Crie o banco de dados da aplicação.
@@ -191,7 +191,7 @@ Para executar o projeto é necessário possuir:
 Este projeto foi desenvolvido com o objetivo de aplicar conhecimentos
 práticos de desenvolvimento de software utilizando Java.
 
-# Entre os conhecimentos aplicados estão:
+## Entre os conhecimentos aplicados estão:
 
 - Programação orientada a objetos
 - Desenvolvimento de interfaces gráficas
@@ -210,6 +210,6 @@ práticos de desenvolvimento de software utilizando Java.
 
 ## 👨‍💻 Autor
 
-#João Rogério de Lima
+## João Rogério de Lima
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas.
