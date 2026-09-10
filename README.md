@@ -162,7 +162,7 @@ aplicação.
 │        POSTGRESQL        │
 │       Banco de dados     │
 └──────────────────────────┘
-```text
+```
 ---
 
 ## ⚙️ Configuração
