@@ -67,7 +67,10 @@ O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 - Exclusão de médicos
 - Pesquisa de médicos por nome
 - Exibição dos médicos em JTable
+- Validação de telefone
+- Validação de e-mail
 - Validação de campos obrigatórios
+- Impedimento de exclusão de médico que possui consulta cadastrada
 
 ---
 
@@ -100,7 +103,6 @@ O acesso ao banco de dados é realizado através de **JDBC**, utilizando
 - **JDBC**
 - **PostgreSQL**
 - **HikariCP**
-- **Git**
 - **Criptografia AES**
 - **Caelum Stella**
 - **Google libphonenumber**
