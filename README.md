@@ -39,9 +39,9 @@ Entre os recursos implementados estão:
 
 ---
 
-# 🎯 Funcionalidades
+## 🎯 Funcionalidades
 
-## 🔐 Autenticação e usuários
+**🔐 Autenticação e usuários**
 
 - Tela de login
 - Validação de usuário e senha
@@ -54,7 +54,7 @@ Entre os recursos implementados estão:
 
 ---
 
-## 👤 Gerenciamento de pacientes
+**👤 Gerenciamento de pacientes**
 
 - Cadastro de pacientes
 - Edição de pacientes
@@ -71,7 +71,7 @@ Entre os recursos implementados estão:
 
 ---
 
-## 👨‍⚕️ Gerenciamento de médicos
+**👨‍⚕️ Gerenciamento de médicos**
 
 - Cadastro de médicos
 - Edição de médicos
@@ -87,7 +87,7 @@ Entre os recursos implementados estão:
 
 ---
 
-## 📅 Gerenciamento de consultas
+**📅 Gerenciamento de consultas**
 
 - Cadastro de consultas
 - Edição de consultas
@@ -101,7 +101,7 @@ Entre os recursos implementados estão:
 
 ---
 
-## 📋 Histórico de consultas
+**📋 Histórico de consultas**
 
 - Visualização do histórico de consultas
 - Pesquisa por nome
@@ -113,7 +113,7 @@ Entre os recursos implementados estão:
 
 ---
 
-# 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - **Java**
 - **Java Swing**
@@ -127,7 +127,7 @@ Entre os recursos implementados estão:
 
 ---
 
-# 🏗️ Arquitetura
+## 🏗️ Arquitetura
 
 O projeto foi organizado em camadas para separar as responsabilidades da
 aplicação.
@@ -165,9 +165,9 @@ aplicação.
 ```
 ---
 
-# ⚙️ Configuração
+## ⚙️ Configuração
 
-## Requisitos
+**Requisitos**
 
 Para executar o projeto é necessário possuir:
 
@@ -176,7 +176,7 @@ Para executar o projeto é necessário possuir:
 - NetBeans ou outra IDE compatível
 - Driver JDBC do PostgreSQL
 
-## Banco de dados
+**Banco de dados**
 
 - Instale o PostgreSQL.
 - Crie o banco de dados da aplicação.
@@ -191,7 +191,7 @@ Para executar o projeto é necessário possuir:
 Este projeto foi desenvolvido com o objetivo de aplicar conhecimentos
 práticos de desenvolvimento de software utilizando Java.
 
-## Entre os conhecimentos aplicados estão:
+**Entre os conhecimentos aplicados estão:**
 
 - Programação orientada a objetos
 - Desenvolvimento de interfaces gráficas
@@ -210,6 +210,6 @@ práticos de desenvolvimento de software utilizando Java.
 
 ## 👨‍💻 Autor
 
-## João Rogério de Lima
+**João Rogério de Lima**
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas.
+**Tecnólogo em Análise e Desenvolvimento de Sistemas.**
