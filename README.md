@@ -214,4 +214,4 @@ práticos de desenvolvimento de software utilizando Java.
 
 **João Rogério de Lima**
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas.**
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
