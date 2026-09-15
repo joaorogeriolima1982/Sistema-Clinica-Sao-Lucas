@@ -185,6 +185,11 @@ Para executar o projeto é necessário possuir:
 - Configure as chaves necessárias para a criptografia.
 - Execute a aplicação.
 
+**Observação**
+
+⚠️ As credenciais do banco de dados e a chave criptográfica não são
+disponibilizadas neste repositório por motivos de segurança.
+
 ---
 
 ## 📚 Objetivos do projeto
@@ -201,7 +206,6 @@ práticos de desenvolvimento de software utilizando Java.
 - SQL
 - PostgreSQL
 - CRUD
-- Connection Pool
 - HikariCP
 - Criptografia
 - Validação de dados
