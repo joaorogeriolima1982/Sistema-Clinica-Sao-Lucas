@@ -1,0 +1,15 @@
+# NetBeans
+/build/
+/dist/
+nbproject/private/
+
+# Arquivos de configuração sensíveis
+config.properties
+config.properties2
+chave.key
+
+# Logs de erro da JVM
+hs_err_pid*.log
+
+# Arquivos compilados
+*.class
