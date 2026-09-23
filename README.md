@@ -208,7 +208,7 @@ práticos de desenvolvimento de software utilizando Java.
 - CRUD
 - HikariCP
 - Criptografia
-- Git
+- GIT
 - Validação de dados
 - Tratamento de exceções
 - Organização de código
