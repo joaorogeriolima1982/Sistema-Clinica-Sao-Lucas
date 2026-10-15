@@ -219,14 +219,14 @@ práticos de desenvolvimento de software utilizando Java.
 
  📚 **Para obter crescimento profissional estou estudando:**
 
-   -**Spring Boot:** estrutura de uma aplicação backend.
-   -**Spring Web:** criação de endpoints REST.
-   -**Spring Data JPA e Hibernate:** persistência de dados.
-   -**Bean Validation:** validação dos dados recebidos pela API.
-   -**Tratamento de exceções:** respostas HTTP adequadas para erros.
-   -**Spring Security:** autenticação e autorização.
-   -**JUnit e Mockito:** testes automatizados.
-   -**Docker:** execução da aplicação e do PostgreSQL em contêineres.
+  - **Spring Boot:** estrutura de uma aplicação backend.
+  - **Spring Web:** criação de endpoints REST.
+  - **Spring Data JPA e Hibernate:** persistência de dados.
+  - **Bean Validation:** validação dos dados recebidos pela API.
+  - **Tratamento de exceções:** respostas HTTP adequadas para erros.
+  - **Spring Security:** autenticação e autorização.
+  - **JUnit e Mockito:** testes automatizados.
+  - **Docker:** execução da aplicação e do PostgreSQL em contêineres.
 
 ---
 
